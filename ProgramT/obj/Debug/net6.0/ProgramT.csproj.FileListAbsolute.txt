@@ -1,0 +1,15 @@
+D:\VScode_projects\C#\Tcs\ProgramT\bin\Debug\net6.0\ProgramT.exe
+D:\VScode_projects\C#\Tcs\ProgramT\bin\Debug\net6.0\ProgramT.deps.json
+D:\VScode_projects\C#\Tcs\ProgramT\bin\Debug\net6.0\ProgramT.runtimeconfig.json
+D:\VScode_projects\C#\Tcs\ProgramT\bin\Debug\net6.0\ProgramT.dll
+D:\VScode_projects\C#\Tcs\ProgramT\bin\Debug\net6.0\ProgramT.pdb
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.csproj.AssemblyReference.cache
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.AssemblyInfoInputs.cache
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.AssemblyInfo.cs
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.csproj.CoreCompileInputs.cache
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.dll
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\refint\ProgramT.dll
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.pdb
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ProgramT.genruntimeconfig.cache
+D:\VScode_projects\C#\Tcs\ProgramT\obj\Debug\net6.0\ref\ProgramT.dll
